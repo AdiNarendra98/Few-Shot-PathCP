@@ -2,7 +2,7 @@
 - #### Authors</ins>: **Aditya Narendra, Subhankar Panda & Chandresh Kumar Maurya**
 -  #### Venue & Year: AAAI-2026
 
-  ## Dataset Guide
+  ## Dataset & Embeddings Guide
 
 ### Datasets Used
 - **HiCervix Dataset** : [Download Link](https://zenodo.org/records/11087263)
